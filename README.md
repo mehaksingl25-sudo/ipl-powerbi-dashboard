@@ -1,5 +1,7 @@
 # IPL Analytics Dashboard (2008–2024) — End-to-End SQL & Power BI Project
 
+## Dashboard Preview
+<img width="963" height="543" alt="IPL_ANALYTICS_REPORT SS" src="https://github.com/user-attachments/assets/d042f1d4-873d-4730-811d-47b8876a4a18" />
 
 ## Project Overview
 An end-to-end business intelligence project connecting PostgreSQL to Power BI Desktop to analyze 1,095 IPL matches and 260,000+ ball-by-ball deliveries from 2008 to 2024. Building directly on top of my [IPL SQL Data Cleaning & Analysis](https://github.com) pipeline, this interactive dashboard allows stakeholders to explore franchise dominance, toss probability, top run-scorers, and death-over bowling specialists across seasons and teams.
@@ -26,3 +28,5 @@ An end-to-end business intelligence project connecting PostgreSQL to Power BI De
 - BI & Visualization: Power BI Desktop, Custom Dark Theme Design, KPI Cards, Clustered Bar Charts, Donut Charts, Interactive Slicers, Top-N Visual Filtering
 - DAX Formulas: `CALCULATE()`, `DIVIDE()`, `COUNTROWS()`, `SUM()`, `IF()`, `BLANK()`
 - Backend Integration: PostgreSQL Database Connection & Relational Star-Schema Modeling
+
+
